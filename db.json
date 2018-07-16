@@ -1,0 +1,186 @@
+[{
+  "id" : "269",
+  "uco" : "RAI.MH.ON.CA",
+  "code" : null,
+  "type" : "Initial Assessment",
+  "date" : "2018-07-16",
+  "status" : "completed",
+  "authored" : "2018-07-16 10:54",
+  "author" : null,
+  "authorId" : "1",
+  "facilityProfile" : {
+    "recordId" : "29",
+    "facilityNumber" : "45455",
+    "facilityName" : "B Sharp Technologies, Inc (OMHRS)",
+    "facilityAddressLine1" : "23 Lesmill Road",
+    "facilityAddressLine2" : "Suite 404",
+    "city" : "Toronto",
+    "province" : "ON",
+    "postalCode" : "M3B3P6",
+    "designatedNumberOfMOHBeds" : "100",
+    "ownership" : null,
+    "vendor" : "B0003",
+    "facilityAdministrator" : null,
+    "administratorPhoneNumber" : null,
+    "administratorPhoneExtension" : null,
+    "administratorEmail" : null,
+    "siteCoordinatorContact" : null,
+    "siteCoordinatorPhoneNumber" : null,
+    "siteCoordinatorExtensionNumber" : null,
+    "siteCoordinatorEmail" : null,
+    "databaseContact" : null,
+    "databasePhoneNumber" : null,
+    "databaseExtension" : null,
+    "databaseEmail" : null,
+    "preferredLanguageOfCorrespondence" : null,
+    "facilityType" : null,
+    "dateFacilityProfileUpdated" : null
+  },
+  "patient" : {
+    "id" : {
+      "caseBook" : "A103",
+      "healthNumber" : "975312466",
+      "healthVersionCode" : "MB",
+      "healthNumProv" : "  "
+    },
+    "patientName" : {
+      "givenName" : "MAE",
+      "familyName" : "NIKOL",
+      "middleInitials" : ""
+    },
+    "dateOfBirth" : "2017-07-03",
+    "gender" : "1",
+    "consentGivenForDataSharing" : true
+  },
+  "visit" : {
+    "accountNo" : "A103-001",
+    "status" : "1"
+  },
+  "assessment" : null,
+  "text" : null,
+  "copyEnabled" : false
+},
+{
+  "id" : "270",
+  "uco" : "RAI.MH.ON.CA",
+  "code" : null,
+  "type" : "Routine assessment at fixed interval",
+  "date" : "2018-08-16",
+  "status" : "completed",
+  "authored" : "2018-08-16 10:54",
+  "author" : null,
+  "authorId" : "1",
+  "facilityProfile" : {
+    "recordId" : "29",
+    "facilityNumber" : "45455",
+    "facilityName" : "B Sharp Technologies, Inc (OMHRS)",
+    "facilityAddressLine1" : "23 Lesmill Road",
+    "facilityAddressLine2" : "Suite 404",
+    "city" : "Toronto",
+    "province" : "ON",
+    "postalCode" : "M3B3P6",
+    "designatedNumberOfMOHBeds" : "100",
+    "ownership" : null,
+    "vendor" : "B0003",
+    "facilityAdministrator" : null,
+    "administratorPhoneNumber" : null,
+    "administratorPhoneExtension" : null,
+    "administratorEmail" : null,
+    "siteCoordinatorContact" : null,
+    "siteCoordinatorPhoneNumber" : null,
+    "siteCoordinatorExtensionNumber" : null,
+    "siteCoordinatorEmail" : null,
+    "databaseContact" : null,
+    "databasePhoneNumber" : null,
+    "databaseExtension" : null,
+    "databaseEmail" : null,
+    "preferredLanguageOfCorrespondence" : null,
+    "facilityType" : null,
+    "dateFacilityProfileUpdated" : null
+  },
+  "patient" : {
+    "id" : {
+      "caseBook" : "A103",
+      "healthNumber" : "975312466",
+      "healthVersionCode" : "MB",
+      "healthNumProv" : "  "
+    },
+    "patientName" : {
+      "givenName" : "MAE",
+      "familyName" : "NIKOL",
+      "middleInitials" : ""
+    },
+    "dateOfBirth" : "2017-07-03",
+    "gender" : "1",
+    "consentGivenForDataSharing" : true
+  },
+  "visit" : {
+    "accountNo" : "A103-001",
+    "status" : "1"
+  },
+  "assessment" : null,
+  "text" : null,
+  "copyEnabled" : false
+},
+{
+  "id" : "272",
+  "uco" : "RAI.MH.ON.CA",
+  "code" : null,
+  "type" : "Review prior to discharge from program",
+  "date" : "2018-09-02",
+  "status" : "completed",
+  "authored" : "2018-09-02 10:54",
+  "author" : null,
+  "authorId" : "1",
+  "facilityProfile" : {
+    "recordId" : "29",
+    "facilityNumber" : "45455",
+    "facilityName" : "B Sharp Technologies, Inc (OMHRS)",
+    "facilityAddressLine1" : "23 Lesmill Road",
+    "facilityAddressLine2" : "Suite 404",
+    "city" : "Toronto",
+    "province" : "ON",
+    "postalCode" : "M3B3P6",
+    "designatedNumberOfMOHBeds" : "100",
+    "ownership" : null,
+    "vendor" : "B0003",
+    "facilityAdministrator" : null,
+    "administratorPhoneNumber" : null,
+    "administratorPhoneExtension" : null,
+    "administratorEmail" : null,
+    "siteCoordinatorContact" : null,
+    "siteCoordinatorPhoneNumber" : null,
+    "siteCoordinatorExtensionNumber" : null,
+    "siteCoordinatorEmail" : null,
+    "databaseContact" : null,
+    "databasePhoneNumber" : null,
+    "databaseExtension" : null,
+    "databaseEmail" : null,
+    "preferredLanguageOfCorrespondence" : null,
+    "facilityType" : null,
+    "dateFacilityProfileUpdated" : null
+  },
+  "patient" : {
+    "id" : {
+      "caseBook" : "A103",
+      "healthNumber" : "975312466",
+      "healthVersionCode" : "MB",
+      "healthNumProv" : "  "
+    },
+    "patientName" : {
+      "givenName" : "MAE",
+      "familyName" : "NIKOL",
+      "middleInitials" : ""
+    },
+    "dateOfBirth" : "2017-07-03",
+    "gender" : "1",
+    "consentGivenForDataSharing" : true
+  },
+  "visit" : {
+    "accountNo" : "A103-001",
+    "status" : "1"
+  },
+  "assessment" : null,
+  "text" : null,
+  "copyEnabled" : false
+}]
